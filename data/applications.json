@@ -1,0 +1,37 @@
+{
+    "success":true,
+    "data":[
+    {
+        "id" : 1,
+        "type":"window",
+        "name":"My Super App",
+        "namespace":"MyApp",
+        "link":"apps/MyApp",
+        "icon": "images/application.png"
+    },
+    {
+        "id" : 2,
+        "type":"window",
+        "name":"Smalltalk Editor",
+        "namespace":"WebPharo",
+        "link":"apps/WebPharo",
+        "icon": "images/application.png"
+    },
+    {
+        "id" : 3,
+        "type":"window",
+        "name":"Smalltalk Workspace",
+        "namespace":"WPWorkspace",
+        "link":"apps/WPWorkspace",
+        "icon": "images/application.png"
+    },
+    {
+        "id" : 4,
+        "type":"window",
+        "name":"Smalltalk Morphic Viewer",
+        "namespace":"WPMorphicViewer",
+        "link":"apps/WPMorphicViewer",
+        "icon": "images/application.png"
+    }
+    ]
+}

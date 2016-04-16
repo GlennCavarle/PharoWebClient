@@ -1,0 +1,29 @@
+{
+    "success":true,
+    "data":[
+    {
+        "id" : 1,
+        "text": "App1",
+        "appId":1,
+        "icon": "images/application.png"
+    },
+    {
+        "id" : 2,
+        "text": "Smalltalk Editor",
+        "appId":2,
+        "icon": "images/application.png"
+    },
+    {
+        "id" : 3,
+        "text": "Smalltalk Workspace",
+        "appId":3,
+        "icon": "images/application.png"
+    },
+    {
+        "id" : 4,
+        "text": "Smalltalk Morphic Viewer",
+        "appId":4,
+        "icon": "images/application.png"
+    }
+    ]
+}
